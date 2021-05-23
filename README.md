@@ -1,0 +1,2 @@
+# Extracting-Average-Temperature-From-Thermal-Videos
+The basic goal of our project is to extract the average temperature of a person across a thermal video. The data set given to us contains recorded thermal videos of people. In those thermal videos, we can see numeric values of temperature predicted by the thermal gun. As these values of temperature vary over the thermal video, our task is to compute the average temperature of the person across the duration of the video.
